@@ -27,7 +27,7 @@ A desktop application built with Python and Tkinter.
 
 ## Home Page
 
-https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/main/Screenshot%202026-07-13%20225107.png?raw=true
+https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/7dea1de534ff53bd5b3c7394fbbe9812336a0567/Screenshot%202026-07-13%20225107.png
 
 ## Folder Selection
 
