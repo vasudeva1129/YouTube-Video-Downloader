@@ -1,0 +1,19 @@
+# YouTube Video & Audio Downloader
+
+A Python Tkinter application to download YouTube videos and MP3 audio.
+
+## Home Screen
+
+![Home Screen](screenshots/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225107.png)
+
+---
+
+## Select Download Folder
+
+![Folder Selection](screenshot/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225158.png)
+
+---
+
+## Download Completed
+
+![Completed](screenshots/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225216.png)
