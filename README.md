@@ -27,7 +27,7 @@ A desktop application built with Python and Tkinter.
 
 ## Home Page
 
-<img width="900" alt="Home Page" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225107.png" />
+https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/main/Screenshot%202026-07-13%20225107.png?raw=true
 
 ## Folder Selection
 
