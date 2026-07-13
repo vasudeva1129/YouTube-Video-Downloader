@@ -20,3 +20,4 @@ A desktop application built with Python and Tkinter.
 ## Installation
 
 ```bash
+pip install yt-dlp
