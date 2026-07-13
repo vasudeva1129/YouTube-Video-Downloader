@@ -25,16 +25,17 @@ A desktop application built with Python and Tkinter.
 
 ## Screenshots
 
-### Home Page
+## Home Page
 
-![Home Page](screenshots/Screenshot%202026-07-13%20225107.png)
+<img width="900" alt="Home Page" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225107.png" />
 
-### Folder Selection
-![Folder Selection](screenshots/Screenshot%202026-07-13%20225158.png)
+## Folder Selection
 
-### Download Completed
+<img width="900" alt="Folder Selection" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225158.png" />
 
-![Completed](screenshots/Screenshot%202026-07-13%20225216.png)
+## Download Completed
+
+<img width="900" alt="Download Completed" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225216.png" />
 
 
 
