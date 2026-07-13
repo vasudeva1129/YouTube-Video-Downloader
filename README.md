@@ -19,20 +19,25 @@ A desktop application built with Python and Tkinter.
 
 ## Installation
 
-```bash
-pip install yt-dlp
+- pip install yt-dlp
 
 ## Output
+
 ## Screenshots
 
 ### Home Page
 
-C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225107.png
+![Home Page](screenshots/Screenshot%202026-07-13%20225107.png)
 
 ### Folder Selection
+![Folder Selection](screenshots/Screenshot%202026-07-13%20225158.png)
 
-C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225158.png
+### Download Completed
 
-### Completed
+![Completed](screenshots/Screenshot%202026-07-13%20225216.png)
 
-C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225216.png
+
+
+
+
+
