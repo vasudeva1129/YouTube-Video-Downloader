@@ -30,8 +30,7 @@ A desktop application built with Python and Tkinter.
 https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/7dea1de534ff53bd5b3c7394fbbe9812336a0567/Screenshot%202026-07-13%20225107.png
 
 ## Folder Selection
-
-<img width="900" alt="Folder Selection" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225158.png" />
+https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/7dea1de534ff53bd5b3c7394fbbe9812336a0567/Screenshot%202026-07-13%20225158.png
 
 ## Download Completed
 
