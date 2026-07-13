@@ -34,7 +34,7 @@ A desktop application built with Python and Tkinter.
 
 ## Download Completed
 
-<img width="900" alt="Download Completed" src="https://github.com/user-attachments/assets/C:\Users\vasu deva\OneDrive\Pictures\Screenshots\Screenshot 2026-07-13 225216.png" />
+<img width="900" alt="Download Completed" src="https://github.com/vasudeva1129/YouTube-Video-Downloader/blob/c0b9f1f641d16639cc6d3be0b0aa4ffa7f68b258/Screenshot%202026-07-13%20225216.png" />
 
 
 
